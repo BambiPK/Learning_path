@@ -16,3 +16,4 @@ Data Rockie
 - Essential python for Data Analyst
 - Dashboard
 
+You can find me on linkedin www.linkedin.com/in/pornpailin-krudsupat
